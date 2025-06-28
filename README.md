@@ -230,6 +230,11 @@ File for the class : [Download HR data here]
 
 Finally, we concluded the dashboard creation today. Find attached the file for the data visualization.
 
+[Download here](https://github.com/user-attachments/assets/272b72f8-bc46-4da1-842d-457b8aa1bb70)
+
+
+
+
 
 
 
