@@ -103,8 +103,8 @@ Today, we delved fully into transformation of data in the power query editor. We
 
 Power Bi can also be used to create tables instead of importing tables using the "Enter data" option in the home tab.
 
-**File for the class** : [Download here]
-  
+**File for the class** : [Download here](https://github.com/user-attachments/files/20961989/Columnar.Data.xlsx)
+
 ## DAY THREE (04 - 06 -2025)
 
 ### Power Query Editor for Data Transformation (ETL) II
