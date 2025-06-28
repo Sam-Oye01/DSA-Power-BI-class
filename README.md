@@ -205,15 +205,31 @@ The Dimension table is a special table narrowed down to the information of empha
 
 ### Data Functions and Data Visualizations I
 
-Today, we took a dive into visualizations using Power BI. 
+Today, we took a dive into visualizations and building dashboards using Power BI. 
 
-[Download Map data here]
-[Download HR data here]
+**Dashboards**
 
-**Note** : To enable enable Map and filled Map visuals use the security settings in options and settings page.
+Dashboards are pictorial representation and visualizations of insights gotten from data. Every visualization is done on the canvas in the report view. 
+
+Different charts or illustrations can be used for visualization. A few of them are ; Barchart, Starked barchart, Column barchart, Funnel chart, Scatter chart, Piechart, Doenut chart, table, matrix, map, card, slicer and so on.
+
+There are three panes that are pinned on the far right of the report view interface used to edit and manipulate visualizations on the canvas. They are;
+- Data pane.
+- Visualization pane.
+- Format pane.
+
+The map data in the file gives information about population census while the HR data talks about the attrition of an organization and the reason why employees leaves.
+
+File for the class : [Download HR data here]
+
+**Note** : To enable enable Map and filled Map visuals use the security settings in options and settings page. Any data point tagged with a summation sign contains a quantitative data. You can create a new measure on the data pane using the three dots icon at the far left of the data sets.
 
 ## DAY SEVEN (13 - 06 - 2025)
 
 ### Data Functions and Data Visualizations II
+
+Finally, we concluded the dashboard creation today. Find attached the file for the data visualization.
+
+
 
 
