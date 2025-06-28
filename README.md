@@ -128,14 +128,29 @@ The following operations were carried out;
     - Insert Date(Age).
     - Insert Duration(Total years)
     - Insert Round down.
+- Reordering columns.
 
-File for the class : [Download here] 
+File for the class : [Download here](https://github.com/user-attachments/files/20962326/Trim.and.Clean.csv)
 
 **Note** : There is no way to have a clean analysis without Data cleaning. The maximum number of data that can be allowed for transformation in the power query editor is 1000 rows.
 
 ## DAY FOUR (05 - 06 - 2025)
 
 ### Power Query Editor for Data Transformation (ETL) III
+
+Today, we moved on with transformation of data using power query editor.
+
+The following operations were carried out;
+
+- Appending and merging of columns
+    - Append : Increases the no of rows on a table (similar with union in SQL).
+    - Merge : Increases the no of columns on a table (similar with join in SQL).
+ - Grouping of data (Data summarization using "Group by").
+
+Files for Appending and Grouping : [Download here]
+Files for Merging : [Download here]
+
+**Note** : To use the appending function, the tables must have the same no of columns, column headers and data types 
 
 ## DAY FIVE (09 - 06 - 2025)
 
