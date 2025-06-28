@@ -150,7 +150,7 @@ The following operations were carried out;
 Files for Appending and Grouping : [Download here]
 Files for Merging : [Download here]
 
-**Note** : To use the appending function, the tables must have the same no of columns, column headers and data types 
+**Note** : To use the appending function, the tables must have the same no of columns, column headers and data types. Also, to use the merging function, there must be a column on the two tables that contain the same information which can be seen as a primary key.  
 
 ## DAY FIVE (09 - 06 - 2025)
 
