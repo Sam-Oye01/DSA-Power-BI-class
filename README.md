@@ -26,8 +26,8 @@ Power BI is a data visualization and business intelligence tool that converts da
 
 The collection of software services are :
 
-- Power BI desktop : a software application for building reports.
-- Power Bi service : a software as a service (SAAS) application, it requires an enterprise account that runs on subscription. It stores reports created on the desktop in the cloud and makes it public for interaction and collaboration.
+- Power BI Desktop : a software application for building reports.
+- Power Bi Service : a software as a service (SAAS) application, it requires an enterprise account that runs on subscription. It stores reports created on the desktop in the cloud and makes it public for interaction and collaboration.
 - Power BI Mobile Apps : an application which can be accessed on mobile phones. Public users can view reports on the mobile app version of Power BI. It cannot be used for building reports.
 
 Available data sources in Power BI
@@ -55,7 +55,7 @@ Other Business intelligence are Tableau and SSRS.
 There are four views on the Power BI desktop interface. They are :
 
 - Report view.
-- Table vieew.
+- Table view.
 - Model view.
 - Dax query view.
 
@@ -204,6 +204,13 @@ The Dimension table is a special table narrowed down to the information of empha
 ## DAY SIX (11 - 06 - 2025)
 
 ### Data Functions and Data Visualizations I
+
+Today, we took a dive into visualizations using Power BI. 
+
+[Download Map data here]
+[Download HR data here]
+
+**Note** : To enable enable Map and filled Map visuals use the security settings in options and settings page.
 
 ## DAY SEVEN (13 - 06 - 2025)
 
