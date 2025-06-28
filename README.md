@@ -220,7 +220,7 @@ There are three panes that are pinned on the far right of the report view interf
 
 The map data in the file gives information about population census while the HR data talks about the attrition of an organization and the reason why employees leaves.
 
-File for the class : [Download HR data here]
+File for the class : [Download HR data here](https://github.com/user-attachments/files/20964089/HR.Data.xlsx)
 
 **Note** : To enable enable Map and filled Map visuals use the security settings in options and settings page. Any data point tagged with a summation sign contains a quantitative data. You can create a new measure on the data pane using the three dots icon at the far left of the data sets.
 
