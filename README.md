@@ -147,14 +147,59 @@ The following operations were carried out;
     - Merge : Increases the no of columns on a table (similar with join in SQL).
  - Grouping of data (Data summarization using "Group by").
 
-Files for Appending and Grouping : [Download here]
-Files for Merging : [Download here]
+Files for Appending and Grouping : 
+- [Download Manchester data here](https://github.com/user-attachments/files/20962860/Manchester.csv)
+- [Download Liverpool data here](https://github.com/user-attachments/files/20962866/Liverpool.csv)
+- [Download Leeds data here](https://github.com/user-attachments/files/20962880/Leeds.csv)
+
+Files for Merging :
+- [Download Personal information data here](https://github.com/user-attachments/files/20962891/Personal.xlsx)
+- [Download General Contacts data here](https://github.com/user-attachments/files/20962893/All.Patient.Data.xlsx)
 
 **Note** : To use the appending function, the tables must have the same no of columns, column headers and data types. Also, to use the merging function, there must be a column on the two tables that contain the same information which can be seen as a primary key.  
 
 ## DAY FIVE (09 - 06 - 2025)
 
 ### Data Modelling and Relationships in Power BI
+
+Today, we moved into Data modelling and relationships between data sets.
+
+Primary key is a unique identifier used to define the data or information in every tables.
+
+**Jireh_Academy_Demo_DB login details**
+
+Server : 206.217.202.58,25000
+
+User Name : Student
+
+Password : JirehGoodTraining@1
+
+Database Name : Jireh_Academy_Demo_DB
+
+**Import the following data sets** 
+- Actor.
+- Country.
+- Date table.
+- Director.
+- Film.
+- Genre.
+- Language.
+- Role.
+- Studio.
+
+**Four Cardinality in Data modelling**
+- One to Many
+- Many to One.
+- Many to Many.
+- One to One.
+
+**Fact tables and Dimension tables**
+
+The Facts table shows the general information of the database, it shows the measure of the relationship that exists between the different table.
+
+The Dimension table is a special table narrowed down to the information of emphasis.
+
+**Note** : When you import data from database, you are bringing it into the power Bi environment whereas a direct query access to the database leaves the data in the cloud, however, no operations can be carried out on the table in the cloud. Do not overload yoyr model with unneccessary data that are not needed for analysis.
 
 ## DAY SIX (11 - 06 - 2025)
 
