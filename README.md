@@ -81,17 +81,35 @@ Data preview options on the "View" tab power query editor helps to ascertain cer
 - Column distribution : Shows the distinct data entities in our column. The distribution of the data based on the information given.
 - Column profile : Shows the statistics of an entire column. 
 
-File for the class : [Download here]
-
 **Note** : Tableau can connect much larger datasets as compared to Power BI which only has a limit of 1 Gb data in free version. You can use the preview features in the options and settings to edit the architecture of the Power BI interface. Reports are built on the "Canvas" in the report view.
 
 ## DAY TWO (02 - 06 - 2025)
 
 ### Power Query Editor for Data transformation (ETL) I
 
+Today, we delved fully into transformation of data in the power query editor. We carried out the following operations. 
+
+- Changing of Data Types.
+- Transposing of tables.
+- Use of filled down.
+- Use of promoted headers.
+- Renaming of columns.
+- Use of Pivot and Unpivot columns.
+- Replace values.
+
+**Note** : All of these operations are done through the transform tab. 
+
+**How to manually create tables and enter data**
+
+Power Bi can also be used to create tables instead of importing tables using the "Enter data" option in the home tab.
+
+**File for the class** : [Download here]
+  
 ## DAY THREE (04 - 06 -2025)
 
 ### Power Query Editor for Data Transformation (ETL) II
+
+**Note** : There is no way to have a clean analysis without Data cleaning.
 
 ## DAY FOUR (05 - 06 - 2025)
 
