@@ -87,7 +87,9 @@ Data preview options on the "View" tab power query editor helps to ascertain cer
 
 ### Power Query Editor for Data transformation (ETL) I
 
-Today, we delved fully into transformation of data in the power query editor. We carried out the following operations. 
+Today, we delved fully into transformation of data in the power query editor. 
+
+We carried out the following operations;  
 
 - Changing of Data Types.
 - Transposing of tables.
@@ -97,19 +99,39 @@ Today, we delved fully into transformation of data in the power query editor. We
 - Use of Pivot and Unpivot columns.
 - Replace values.
 
-**Note** : All of these operations are done through the transform tab. 
-
 **How to manually create tables and enter data**
 
 Power Bi can also be used to create tables instead of importing tables using the "Enter data" option in the home tab.
 
 **File for the class** : [Download here](https://github.com/user-attachments/files/20961989/Columnar.Data.xlsx)
 
+**Note** : All of these operations are done through the transform tab. 
+
 ## DAY THREE (04 - 06 -2025)
 
 ### Power Query Editor for Data Transformation (ETL) II
 
-**Note** : There is no way to have a clean analysis without Data cleaning.
+Today, the journey into transformation using power query editor continued. 
+
+The following operations were carried out;
+
+- Removal of unwanted columns.
+- Trim and clean
+  - Trim : removes unwanted spaces outside texts.
+  - Clean : removes unneccessary spaces within texts.
+- Replace multiple spaces with single space.
+- Capitalize each words.
+- Split columns by space delimiter.
+- Add columns
+    - Use of conditional columns (IF statement).
+    - Use of custom columns.
+    - Insert Date(Age).
+    - Insert Duration(Total years)
+    - Insert Round down.
+
+File for the class : [Download here] 
+
+**Note** : There is no way to have a clean analysis without Data cleaning. The maximum number of data that can be allowed for transformation in the power query editor is 1000 rows.
 
 ## DAY FOUR (05 - 06 - 2025)
 
