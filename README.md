@@ -232,6 +232,7 @@ Finally, we concluded the dashboard creation today. Find attached the file for t
 
 [Download here](https://github.com/user-attachments/assets/272b72f8-bc46-4da1-842d-457b8aa1bb70)
 
+![HR Data visuals_page-0002](https://github.com/user-attachments/assets/10c612d6-cee6-4582-b3c5-fcf4947a1e9a)
 
 
 
